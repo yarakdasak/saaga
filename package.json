@@ -1,0 +1,26 @@
+{
+  "name": "mete",
+  "version": "9.9.9",
+  "description": "mete",
+  "main": "metehan.js",
+  "scripts": {
+    "start": "node metehan.js"
+  },
+  "author": "mete",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security",
+    "metehan.ai": "^1.0.4",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch2": "^1.6.3",
+    "os": "^0.1.2",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
